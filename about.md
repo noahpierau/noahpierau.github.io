@@ -10,7 +10,6 @@ Click here for [my coding skills][noah-code].
 
 Click here for [professional profile][noah-prof].
 
-[Jekyll Talk][jekyll-talk].
 
 [noah-code]: https://www.codecademy.com/noahpierau
 [noah-prof]: https://www.linkedin.com/in/noahpierau
