@@ -6,6 +6,11 @@ permalink: /about/
 
 This website was generated during a coding tutorial.
 
-My coding skills: https://www.codecademy.com/noahpierau
+Click here for [my coding skills][noah-code]. 
 
-Professional profile: https://www.linkedin.com/in/noahpierau
+Click here for [professional profile][noah-prof].
+
+[Jekyll Talk][jekyll-talk].
+
+[noah-code]: https://www.codecademy.com/noahpierau
+[noah-prof]: https://www.linkedin.com/in/noahpierau
