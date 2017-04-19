@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This website was generated during a coding tutorial.
+More about me: 
 
 [Click here for my coding skills][noah-code]. 
 
-[Click here for professional profile][noah-prof].
+[Click here for my LinkedIn profile][noah-prof].
 
 Go to [http://www.utunkon.eu/][noah-utunkon] for my services.
 
