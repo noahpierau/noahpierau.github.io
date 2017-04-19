@@ -8,13 +8,8 @@ title: Home
 
 This website was generated during a coding tutorial.
 
-[Click here for my coding skills][noah-code]. 
 
-[Click here for professional profile][noah-prof].
-
-Go to [http://www.utunkon.eu/][noah-utunkon] for my services.
+You can contact me on [21.co/noahpierau][noah-contact] for business inquiries.
 
 
-[noah-utunkon]: http://www.utunkon.eu/
-[noah-code]: https://www.codecademy.com/noahpierau
-[noah-prof]: https://www.linkedin.com/in/noahpierau
+[noah-contact]: https://21.co/noahpierau/
