@@ -6,13 +6,13 @@ permalink: /about/
 
 More about me: 
 
-[Click here for my coding skills][noah-code]. 
+Community member of [Decred][decred-code], an open-source blockchain project. 
 
-[Click here for my LinkedIn profile][noah-prof].
+Go to [www.utunkon.eu][noah-utunkon] for my professional services.
 
-Go to [http://www.utunkon.eu/][noah-utunkon] for my services.
+Visit my [LinkedIn profile][noah-prof] for my proven track record.
 
 
+[decred-code]: https://github.com//decred
 [noah-utunkon]: http://www.utunkon.eu/
-[noah-code]: https://www.codecademy.com/noahpierau
 [noah-prof]: https://www.linkedin.com/in/noahpierau
