@@ -8,8 +8,6 @@ title: Home
 
 This website was generated during a coding tutorial.
 
+You can contact me on [earn.com/noahpierau][noah-contact] for business inquiries.
 
-You can contact me on [21.co/noahpierau][noah-contact] for business inquiries.
-
-
-[noah-contact]: https://21.co/noahpierau/
+[noah-contact]: https://earn.com/noahpierau/
