@@ -6,8 +6,8 @@ layout: page
 title: Home
 ---
 
-This website was generated during a coding tutorial.
+This website was generated during a Codecademy tutorial.
 
-You can contact me on [earn.com/noahpierau][noah-contact] for business inquiries.
+Please visit my [GitHub profile][noah-contact] for other work.
 
-[noah-contact]: https://earn.com/noahpierau/
+[noah-contact]: https://github.com/noahpierau
