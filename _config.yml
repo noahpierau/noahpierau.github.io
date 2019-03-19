@@ -1,7 +1,6 @@
 # Website information
 title: Noah Pierau
 author: Noah Pierau
-url: "https://jonchoi.com"
 description: > # this means to ignore newlines until "baseurl:"
   Act without expectation.
 baseurl: "" # the subpath of your site, e.g. /blog
