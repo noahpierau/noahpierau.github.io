@@ -6,7 +6,7 @@ permalink: /about/
 
 More about me: 
 
-It is my mission to improve continuously and to inspire others.
+*It is my mission to improve continuously and to inspire others.*
 
 Follow me [on Twitter][twitter] to receive updates
 
