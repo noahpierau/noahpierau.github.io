@@ -1,14 +1,16 @@
 # Website information
-title: Haon
+title: Act without expectation.
 author: Noah Pierau
 description: > # this means to ignore newlines until "baseurl:"
-  Act without expectation.
+  Welcome.  My name is Noah / Haon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://localhost:4000 # change back to "" // the base hostname & protocol for your site, e.g. http://example.com
 
-social_links:
-  twitter: noahpierau
-  github:  noahpierau
+# Social media
+minima:
+  social_links:
+    twitter: noahpierau
+    github:  noahpierau
 
 # Build settings
 markdown: kramdown
