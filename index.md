@@ -7,7 +7,3 @@ title: Home
 ---
 
 Welcome. My name is Noah. I am dedicated to making a positive change in life. It is my mission to improve continuously and to inspire others. Together we create our future. 
-
-Please visit my [GitHub profile][noah-contact] for other work.
-
-[noah-contact]: https://github.com/noahpierau
