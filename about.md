@@ -6,10 +6,11 @@ permalink: /about/
 
 More about me: 
 
-Community member of [Decred][decred-code], an open source blockchain project. 
+It is my mission to improve continuously and to inspire others.
 
-Visit my [LinkedIn profile][noah-prof] for my proven track record.
+Follow me [on Twitter][twitter] to receive updates.
 
+Visit my [Medium page][medium] for my writings.
 
-[decred-code]: https://github.com//decred
-[noah-prof]: https://www.linkedin.com/in/noahpierau
+[twitter]: https://www.linkedin.com/in/noahpierau
+[medium]: https://github.com/noahpierau
