@@ -1,8 +1,8 @@
 # Website information
-title: Act without expectation
+title: Act Without Expectation
 author: Noah Pierau
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome.  My name is Noah / Haon.
+  Welcome! My name is Noah / Haon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://localhost:4000 # change back to "" // the base hostname & protocol for your site, e.g. http://example.com
 
