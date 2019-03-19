@@ -1,15 +1,14 @@
 # Website information
-title: Home of Haon
+title: Haon
 author: Noah Pierau
 description: > # this means to ignore newlines until "baseurl:"
   Act without expectation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://localhost:4000 # change back to "" // the base hostname & protocol for your site, e.g. http://example.com
 
-minima:
-  social_links:
-twitter: noahpierau
-github:  noahpierau
+social_links:
+  twitter: noahpierau
+  github:  noahpierau
 
 # Build settings
 markdown: kramdown
