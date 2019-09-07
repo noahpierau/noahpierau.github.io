@@ -10,12 +10,19 @@ More about me:
 
 Areas of interest: Research, Innovation, Blockchain, Communication, Quality Assurance
 
-- Follow me [on Twitter][twitter] to receive updates
-- Visit my [Medium page][medium] for my writings
+- Follow me [on Twitter][twitter] to get updates
+- Visit my [Medium page][medium] for writings
 - Connect to me [via LinkedIn][linkedin]
-- Or view my latest projects [on Github][github]
+- Or view my projects [on Github][github]
+
+I'm present on other platforms as well.
+
+When you want to make sure it's me: 
+contact [@NoahPierau][twitter] via Twitter to verify.
 
 [twitter]: https://twitter.com/NoahPierau
 [medium]: https://medium.com/@NoahPierau
 [linkedin]: https://www.linkedin.com/in/noahpierau
 [github]: https://github.com/noahpierau
+
+![profile picture](/profile-picture.jpg)
