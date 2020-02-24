@@ -1,7 +1,7 @@
 ---
 layout: home
-title: posts
-permalink: /posts/
+title: Articles
+permalink: /articles/
 ---
 
 Collection of my articles
