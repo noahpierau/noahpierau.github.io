@@ -8,3 +8,7 @@ layout: page
 Welcome. My name is Noah / Haon. I am dedicated to making a positive change in life. It is my mission to improve continuously and to inspire others. Together we create our future. 
 
 ![background image](/background.jpg)
+
+Read more [about me][about]
+
+[about]: https://noahpierau.github.io/about/
