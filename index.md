@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
 
@@ -9,6 +6,9 @@ Welcome. My name is Noah / Haon. I am dedicated to making a positive change in l
 
 ![background image](/background.jpg)
 
-Read more [about me][about]
+Go read [my articles][articles]!
 
+Or read more [about me][about].
+
+[articles]: https://noahpierau.github.io/articles/
 [about]: https://noahpierau.github.io/about/
