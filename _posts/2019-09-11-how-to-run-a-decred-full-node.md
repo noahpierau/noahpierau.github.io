@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "How to run a Decred full node?"
-categories: decred
+description: You can use all kinds of devices to run a Decred full node. Simply follow the steps below to set it up and find a place to leave it running. The node won't need a lot of maintenance.
+categories: posts
+image: /profile-picture.jpg
 author:
 - Haon
 meta: "Decred full node"
