@@ -10,7 +10,7 @@ twitter:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
   
 exclude:
   - Gemfile
